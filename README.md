@@ -28,7 +28,7 @@ For specific, detailed instructions, look at the project instructions in the Uda
 
     ```git init```
 
-    ```git clone https://github.com/ZEXAWY/Landing-Page-Project-Udacity.git```
+    ```git clone https://github.com/ZEXAWY/Project-Landing-Page-V2.git```
 
 
 ## Project Steps:
